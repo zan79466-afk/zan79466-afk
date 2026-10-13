@@ -1,4 +1,4 @@
-# Hi, I'm Zuzan!
+# Hi, I'm Zuzan!!
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
 
 <p align="center">
@@ -29,7 +29,7 @@ The rest is just a regular game of Tic-Tac-Toe
     
 ## About Me
 
-Hey there! 👋 My name is Kavish Hukmani, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
+Hey there! 👋 My name is Zuzan, and I'm a passionate 🥇, creative 🎨, and perceptive 🔭 engineer 🔧 with a hands-on approach to problem-solving and an unending thirst for knowledge 📚. Anything and everything that can be classified as technology 💻 fascinates me.
 
 Currently, I'm based in the beautiful city of San Francisco 🌉 where I work as an Analytics Professional 📊 at Meta, developing GenAI features for internal tools 🛠️ used for workplace analytics 🏢 of over 100k employees and contractors worldwide. Previously, I was a Data Scientist 🧑‍🔬 at Unison, focusing on challenges in Finance 💰, Housing 🏠, and Marketing 📣. Before that, I contributed to the Impact Analytics team, developing products that facilitated data-driven decision-making for leading Retail 💃 and CPG 🍫 companies. Oh, and I proudly hold an MS in Business Analytics 📈 from UC Davis 🎓.
 
