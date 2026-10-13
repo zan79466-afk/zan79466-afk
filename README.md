@@ -1,4 +1,4 @@
-# Hi, I'm Kavish!
+# Hi, I'm Zuzan!
 ### Welcome to my <img src="https://img.icons8.com/color/96/000000/github--v1.png" height="24"/>GitHub Profile
 
 <p align="center">
